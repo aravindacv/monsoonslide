@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying paper."
+title: "MonsoonSlide: code for 'Gridded Rainfall Acts as a Location Fingerprint That Inflates Landslide Susceptibility Models'"
+type: software
+authors:
+  - family-names: "C. V."
+    given-names: "Aravinda"
+    orcid: "https://orcid.org/0000-0003-4588-4105"
+  - family-names: "Rajendran"
+    given-names: "Anand"
+  - family-names: "Raja"
+    given-names: "J. Emerson"
+repository-code: "https://github.com/aravindacv/monsoonslide"
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-11"
